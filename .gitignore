@@ -133,3 +133,15 @@ dist
 
 # Claude Code internal (submodule gitlink Pages'i bozuyor)
 .claude/
+
+# Android imzalama anahtari - ASLA repoya girmemeli
+*.jks
+*.keystore
+keystore.properties
+
+# IDE ve derleme ciktilari
+.idea/
+android/.idea/
+android/app/release/
+android/app/build/
+android/build/
