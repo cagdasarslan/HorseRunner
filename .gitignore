@@ -131,4 +131,5 @@ dist
 
 .claude/
 
+# Claude Code internal (submodule gitlink Pages'i bozuyor)
 .claude/
